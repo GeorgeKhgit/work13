@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Josefin Sans SemiBold";
+    src: url("JosefinSans-SemiBold.eot"); /* IE9 */
+    src: url("JosefinSans-SemiBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("JosefinSans-SemiBold.woff") format("woff"), /* chrome, firefox */
+    url("JosefinSans-SemiBold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("JosefinSans-SemiBold.svg#Josefin Sans SemiBold") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

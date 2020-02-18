@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Josefin Sans Light";
+    src: url("JosefinSans-Light.eot"); /* IE9 */
+    src: url("JosefinSans-Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("JosefinSans-Light.woff") format("woff"), /* chrome, firefox */
+    url("JosefinSans-Light.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("JosefinSans-Light.svg#Josefin Sans Light") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

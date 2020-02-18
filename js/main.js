@@ -1,0 +1,1 @@
+$(".header__picker-bottom").click(function(){$("html,body").animate({scrollTop:window.innerHeight},1e3)}),$(".header__picker-top").click(function(){$("html,body").animate({scrollTop:window.innerHeight},1e3)}),$(".video_main").click(function(){$(".video_main").attr("controls","true")});
